@@ -1,0 +1,19 @@
+/* Base styles to remove browser-stylesheet defaults and add a font */
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Add your styles here */
