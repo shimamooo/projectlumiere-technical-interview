@@ -21,4 +21,4 @@
   - The `images` directory contains an image, `dog.jpeg`
     - `logos` directory containing `apple.svg`
   - `package.json` is a description of the project, notably containing the packages/dependencies used
-2. Next tell them to design a website with the [wireframe]()
+2. Next tell them to design a website with the [wireframe](https://www.figma.com/file/TK0OyjylAWa3McB7B8u1MC/Project-Lumiere-Technical-Interview?node-id=0%3A1)
